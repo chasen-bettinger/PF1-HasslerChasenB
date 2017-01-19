@@ -10,6 +10,7 @@ namespace PF1_HasslerChasenB
     {
         static void Main(string[] args)
         {
+            Console.Write("Hello World!");
         }
     }
 }
